@@ -1,8 +1,8 @@
-package epam.learn.main.fundamentals.task;
+package epam.learn.main.fundamentals.mainTask;
 
 import java.util.Scanner;
 
-public class task5 {
+public class MTask5 {
     public static void main(String[] args) {
         System.out.println("Enter the month number:");
         Scanner scanner = new Scanner(System.in);

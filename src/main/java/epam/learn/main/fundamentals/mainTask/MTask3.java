@@ -1,8 +1,8 @@
-package epam.learn.main.fundamentals.task;
+package epam.learn.main.fundamentals.mainTask;
 
 import java.util.concurrent.ThreadLocalRandom;
 
-public class task3 {
+public class MTask3 {
     public static void main(String[] args) {
 //        System.out.println("5 " + "\n12 " + "\n16");
 //        System.out.println("5 " + "12 " + "16");

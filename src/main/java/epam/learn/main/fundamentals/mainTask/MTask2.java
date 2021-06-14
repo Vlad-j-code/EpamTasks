@@ -1,12 +1,10 @@
-package epam.learn.main.fundamentals.task;
-
-import org.junit.Test;
+package epam.learn.main.fundamentals.mainTask;
 
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Scanner;
 
-public class task2 {
+public class MTask2 {
     public static void main(String[] args) {
 //        String str = "Hello, ";
 //        Scanner in = new Scanner(System.in);
